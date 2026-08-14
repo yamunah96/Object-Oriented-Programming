@@ -171,3 +171,6 @@ This project demonstrates:
 6. Enter the travel distance.
 7. View the calculated fare.
 8. Choose `yes` to book another trip or `no` to exit.
+
+## Video
+https://youtu.be/_Bp57XSxW1s
