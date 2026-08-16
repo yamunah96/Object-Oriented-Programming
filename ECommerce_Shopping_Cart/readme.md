@@ -1,9 +1,8 @@
-````md
-**## E-Commerce Shopping Cart System**
+## E-Commerce Shopping Cart System
 
 A simple Python project that demonstrates **Object-Oriented Programming (OOP)** by building a basic E-Commerce Shopping Cart System.
 
-**## 📌 Project Features**
+## 📌 Project Features
 
 - Create multiple products with different details.
 - Add products to the shopping cart.
@@ -18,7 +17,7 @@ A simple Python project that demonstrates **Object-Oriented Programming (OOP)** 
 
 ---
 
-**## Classes**
+## Classes
 
 ### Product
 
